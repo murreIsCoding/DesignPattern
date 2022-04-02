@@ -1,7 +1,7 @@
-package creatinal_patterns.factory_method.factory;
+package creatinal.factory_method.factory;
 
-import creatinal_patterns.factory_method.buttons.Button;
-import creatinal_patterns.factory_method.buttons.HtmlButton;
+import creatinal.factory_method.buttons.Button;
+import creatinal.factory_method.buttons.HtmlButton;
 
 /**
  * @Author LMY

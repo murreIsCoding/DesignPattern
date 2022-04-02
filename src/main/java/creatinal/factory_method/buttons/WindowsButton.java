@@ -1,4 +1,4 @@
-package creatinal_patterns.factory_method.buttons;
+package creatinal.factory_method.buttons;
 
 import javax.swing.*;
 import java.awt.*;

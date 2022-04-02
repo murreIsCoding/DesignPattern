@@ -1,8 +1,8 @@
-package creatinal_patterns.factory_method;
+package creatinal.factory_method;
 
-import creatinal_patterns.factory_method.factory.Dialog;
-import creatinal_patterns.factory_method.factory.HtmlDialog;
-import creatinal_patterns.factory_method.factory.WindowsDialog;
+import creatinal.factory_method.factory.Dialog;
+import creatinal.factory_method.factory.HtmlDialog;
+import creatinal.factory_method.factory.WindowsDialog;
 
 /**
  * @Author LMY
